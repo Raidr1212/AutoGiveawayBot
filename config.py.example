@@ -1,0 +1,8 @@
+token = "mfa.XXXXXXXXXXXXXXXXX-XXXXXXXXXXXXXX-XXXXXXXXX-XXXXXXXXXXXXX"
+giveawayBotID = "294882584201003009"
+
+# Run telegram-send configure if enabled 
+# | 0 = Disabled 
+# | 1 = Giveaway Won, Giveaway Started 
+# | 2 = Giveaway Won
+telegramNotifications = 0
