@@ -30,7 +30,4 @@ def Raidr(resp):
                     telegram_send.send(messages=["🎉 | "+content+"\n"+link],disable_web_page_preview=True)
                 print(content)
 
-
-        
-
 bot.gateway.run(auto_reconnect=True)
